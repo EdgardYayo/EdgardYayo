@@ -6,12 +6,20 @@
 
 ### Who am I ? 👦
 -◈💻Full Stack Web Developer passionate by JavaScript code and development apps in React, I'm also a Agronomy Biotech Engineer
+
+
 ### What Technologies I know ? 🌐
 -◈💻I've made over 3 full stack projects with the PERN Stack and I have more than 1000 hours of experience in JavasScript, React, Redux, CSS, Material UI, Tailwind, HTML, Express and Sequelize
+
+
 ### What are my best Qualities? ✔
--◈💻Some of my bests Qualities are: Passionate, Hardworking, Enthusiastic, Empatic, Friendly, Great Team Worker and Eager to learn more are words that describe me
+-◈💻Some of my bests Qualities are: Passionate, Hardworking, Enthusiastic, Empatic, Friendly, Great Team Worker and Eager to learn more, these are a few words that describe me
+
+
 ### I also know and still getting better at 💥
 -◈💻I also have Good understanding of SQL, Python, Typescript and Managment of Apis
+
+
 ### I have experience On 👨‍💻
 -◈💻I have Experience in Front End, Back End and Data Bases.
 
