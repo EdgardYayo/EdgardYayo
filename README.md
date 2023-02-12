@@ -23,9 +23,9 @@
 
 -👯 I’m looking to collaborate on whatever project where I be invited
 
-- 🎸I like to play the guitar, piano, bass and almost every instrument
+-🎸I like to play the guitar, piano, bass and almost every instrument
 
-- 🌿 I like plants, animals, nature and also like to meditate 🧘‍🧘‍♂️
+-🌿 I like plants, animals, nature and also like to meditate 🧘‍🧘‍♂️
  
 -📫 How to reach me: 
  > send me a message to my personal mail allan.pazos@uabc.edu.mx
