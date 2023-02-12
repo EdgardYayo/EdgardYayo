@@ -15,11 +15,17 @@
 ### I have experience On 👨‍💻
 -◈💻I have Experience in Front End, Back End and Data Bases.
 
+
+### Other Things About me 📚
 -🔭 I’m currently working on the project of create a group of developers for working as a freelancers
 
 -🌱 I’m currently learning more React.js
 
 -👯 I’m looking to collaborate on whatever project where I be invited
+
+- 🎸I like to play the guitar, piano, bass and almost every instrument
+
+- 🌿 I like plants, animals, nature and also like to meditate 🧘‍🧘‍♂️
  
 -📫 How to reach me: 
  > send me a message to my personal mail allan.pazos@uabc.edu.mx
