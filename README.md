@@ -23,6 +23,8 @@
 
 -👯 I’m looking to collaborate on whatever project where I be invited
 
+-🔊 I like to learn new languages I know a bit of Japanese, Portuguese, German, Chinese and French
+
 -🎸I like to play the guitar, piano, bass and almost every instrument
 
 -🌿 I like plants, animals, nature and also like to meditate 🧘‍🧘‍♂️
