@@ -17,7 +17,7 @@
 ###👯 I’m looking to collaborate on whatever project where I be invited
  
 ###📫 How to reach me: 
- -*send me a message to my personal mail allan.pazos@uabc.edu.mx
+ > send me a message to my personal mail allan.pazos@uabc.edu.mx
  -*visit my LinkedIn Profile and talk to me https://www.linkedin.com/in/edgard-allan-pazos-inda-34780724a/
  -*Call me at my phone 6865230943 || 6861576517 || WhatsApp +52 6861795282
  -*Or you can see my portfolio here ----> https://portfolio-edgard-api.vercel.app/
