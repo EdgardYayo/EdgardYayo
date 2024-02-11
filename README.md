@@ -27,7 +27,7 @@
 ### Other Things About me 📚
 -🔭 I’m currently working on the project of create a group of developers for working as a freelancers
 
--🌱 I’m currently learning more React.js
+-🌱 I’m currently learning React.js, Angular, Svelte, Flutter, Spring Boot and Django.
 
 -👯 I’m looking to collaborate on whatever project where I be invited
 
